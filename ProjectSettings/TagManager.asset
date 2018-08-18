@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - armadilha
+  - girl
+  - amigo
+  - tempo
+  - arvore
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - chao
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: floor
+    uniqueID: 1085848095
+    locked: 0
+  - name: Ground
+    uniqueID: 1265177825
+    locked: 0
+  - name: Grass
+    uniqueID: 2703549177
+    locked: 0
+  - name: Player
+    uniqueID: 4197098025
+    locked: 0
+  - name: Trap
+    uniqueID: 2241979287
+    locked: 0
+  - name: Cloud
+    uniqueID: 875949385
+    locked: 0
